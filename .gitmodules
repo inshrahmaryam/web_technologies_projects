@@ -1,0 +1,3 @@
+[submodule "web_technologies_projects"]
+    path = web_technologies_projects
+    url = https://github.com/inshrahmaryam/web_technologies_projects.git
