@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fa; 
+    color: #2f4f4f; 
+}
+
+nav {
+    background-color: rgb(98, 135, 168); 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #2f4f4f; 
+}
+
+.about,
+.services,
+.projects {
+    background-color: #f5f5f5; 
+}
+
+.explore-section {
+    background-color: #f0f8ff; 
+    padding: 20px;
+}
+
+.btn-primary {
+    background-color: #ff6f61;
+    border: none; 
+}
+
+.btn-primary:hover {
+    background-color: #ff4c3b; 
+}
+
+a {
+    color: #ff6f61;
+}
+
+a:hover {
+    color: #ff4c3b; 
+}
